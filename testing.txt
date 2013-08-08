@@ -1,2 +1,3 @@
 Test file 23456
 Baz was here
+Baz has now been committed
